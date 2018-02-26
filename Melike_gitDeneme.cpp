@@ -10,6 +10,10 @@
 using namespace std;
 
 int main() {
-	cout << "Melike Bayraktaroðlu" << endl;
+	
+	for (int i=1; i<=10; i++) {
+		cout << "Melike Bayraktaroglu" << endl;
+	}
+	
 	return 0;
 }
